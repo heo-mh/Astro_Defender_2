@@ -1,0 +1,6 @@
+{
+  "name": "지구 방위대: 운석 요격",
+  "description": "전투기를 조종해 우주에서 지구로 다가오는 암석을 미사일로 요격하는 HTML5 아케이드 슈팅 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
